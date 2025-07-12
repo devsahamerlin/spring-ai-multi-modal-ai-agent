@@ -1,4 +1,4 @@
-# Spring AI Agentic AI
+# Spring AI Agentic AI with Ollama and OpenAI
 
 - Swagger: http://localhost:8089/swagger-ui/index.html
 
@@ -18,4 +18,7 @@
 
 - AI Agent structured output
 ![structured-output.png](images/structured-output.png)
+
+- Ollama
+![ollama.png](images/ollama.png)
 
